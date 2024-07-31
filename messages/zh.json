@@ -1,0 +1,15 @@
+{
+    "IntroSection": {
+        "hello_im": "你好，我是",
+        "name": "Biltune",
+        "short_intro": "生而热忱，终也欢洽。",
+        "download_cv": "访问我的博客"
+    },
+    "SectionName": {
+        "about": "关于我",
+        "experience": "我的经历",    },
+    "AboutSection": {
+        "desc": "09 年生某知名省份不知名城市准高中生，爱好计算机，喜欢设计一些寄术产品（雾），胆小内向闷骚社恐男高。
+00 后，喜爱折腾，常混迹于 GitHub 与 Telegram，QQ 亦有使用，但主要是现实朋友。Twitter X已有数月未曾打开，Mastodon 也基本没有使用。知乎也有，还写了几个回答。喜欢用网易云音乐。喜欢刷 Bilibili，据同学说喜欢点赞一些逆天内容，但咱也没有什么感觉（？ "
+    }
+}
